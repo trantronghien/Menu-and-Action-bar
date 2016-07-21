@@ -108,5 +108,9 @@
 ![color_component](https://cloud.githubusercontent.com/assets/13708331/17027692/11ffba7c-4f8f-11e6-92cd-1406ebbceb2c.png)
 ### các theme chính 
 ![theme](https://cloud.githubusercontent.com/assets/13708331/17027827/afc147f8-4f8f-11e6-9470-884b7d1aa493.png)
+[web theme khảo](http://docs.appcelerator.com/platform/latest/#!/guide/Android_Themes)
 
-[web tham khảo](http://docs.appcelerator.com/platform/latest/#!/guide/Android_Themes)
+### Popup Menu
+### Menu in ListView
+
+
