@@ -71,7 +71,7 @@
                     item.setCheckable(true);
                 else
                     item.setCheckable(false);
-                // set mùa backgroup cho actionbar
+                // set màu backgroup cho actionbar
                 getActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#f44336")));
                 Toast.makeText(MainActivity.this, "Item one", Toast.LENGTH_SHORT).show();
                 return true;
@@ -98,6 +98,10 @@
         }
 
     }
-    
-    
 ```
+> ###với phần thay đổi màu cho action bar chú ý các phần sau
++ sử dụng `android:theme="@android:style/Theme.Material.Light.DarkActionBar"` trong manifests 
++ phần Layout sử dụng theme `Material.Light.DarkActionBar`
+
+> ### màu các thành phần on Screen
+![mau cac thanh phan](https://cloud.githubusercontent.com/assets/13708331/17026911/f82b65e0-4f8b-11e6-9fd2-8a4285286064.png)
