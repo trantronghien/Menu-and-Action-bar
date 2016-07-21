@@ -98,10 +98,15 @@
         }
 
     }
-```
+    
+    
 ### với phần thay đổi màu cho action bar chú ý các phần sau
 + sử dụng `android:theme="@android:style/Theme.Material.Light.DarkActionBar"` trong manifests 
 + phần Layout sử dụng theme `Material.Light.DarkActionBar`
 
 ### màu các thành phần on Screen
-![mau cac thanh phan](https://cloud.githubusercontent.com/assets/13708331/17026911/f82b65e0-4f8b-11e6-9fd2-8a4285286064.png)
+![color_component](https://cloud.githubusercontent.com/assets/13708331/17027692/11ffba7c-4f8f-11e6-92cd-1406ebbceb2c.png)
+### các theme chính 
+![theme](https://cloud.githubusercontent.com/assets/13708331/17027827/afc147f8-4f8f-11e6-9470-884b7d1aa493.png)
+
+[web tham khảo](http://docs.appcelerator.com/platform/latest/#!/guide/Android_Themes)
